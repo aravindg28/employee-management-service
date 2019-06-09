@@ -253,6 +253,8 @@ module.exports = {
     onlyAllowOrigins: [
       'https://emloyee-project-management.azurewebsites.net',
       'http://emloyee-project-management.azurewebsites.net',
+      'https://employee-mangement-service.herokuapp.com/',
+      'http://employee-mangement-service.herokuapp.com/'
     ],
 
 
